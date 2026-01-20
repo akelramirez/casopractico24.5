@@ -1,7 +1,6 @@
 # 📋 Gestor de Usuarios
 
-Aplicación web desarrollada con **HTML, CSS y JavaScript** que permite **visualizar y administrar usuarios** mediante una interfaz moderna y responsiva.  
-El proyecto sigue el patrón de arquitectura **MVC (Modelo–Vista–Controlador)** para mantener un código organizado y escalable.
+Aplicación web desarrollada con **HTML, CSS y JavaScript** que permite **visualizar y administrar usuarios** mediante una interfaz moderna y responsiva. El proyecto sigue el patrón de arquitectura **MVC (Modelo–Vista–Controlador)** para mantener un código organizado y escalable.
 
 --
 
@@ -82,4 +81,3 @@ Puedes usarlo, modificarlo y distribuirlo libremente.
 
 **Akel Ramirez Campo**  
 © 2026 – Sistema de Gestión de Usuarios
-
