@@ -78,7 +78,8 @@ Este proyecto se distribuye bajo la licencia **MIT**.
 Puedes usarlo, modificarlo y distribuirlo libremente.
 
 
-###👤 Autor
+### 👤 Autor
 
 **Akel Ramirez Campo**  
 © 2026 – Sistema de Gestión de Usuarios
+
